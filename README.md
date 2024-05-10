@@ -32,4 +32,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hudamabkhoot&" alt="hudamabkhoot" /></p>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hudamabkhoot" alt="hudamabkhoot" />
+</div>
+
