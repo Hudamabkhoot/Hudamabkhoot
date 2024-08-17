@@ -4,7 +4,7 @@
 
 <p>I'm a front end developer from Saudi Arabia. Proficient in React, Javascript, TypeScript and GitHub for version control.</p> 
 
-<p>I'm currently on the look out for a role in front end development, ideally using React framework. I'd especially love to work in an environment where I can make an impact quickly. If you're hiring, feel free to contact me!</p>
+<p>I'm currently on the look out for a role in front end development, ideally using React. I'd especially love to work in an environment where I can make an impact quickly. If you're hiring, feel free to contact me!</p>
 
 <br>
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **hudamabkhoot@gmail.com**
 
-- 📄 [my resuume](https://drive.google.com/file/d/1N4JkapgtpzrJEQnXzi1GOpDG56JdfE4n/view)
+- 📄 [my resuume](https://drive.google.com/file/d/1urw6EpeiRb0YMqpBsMQXzLdL1dchnjp6/view?usp=sharing)
 
 <br>
 <h3 align="left">Connect with me:</h3>
