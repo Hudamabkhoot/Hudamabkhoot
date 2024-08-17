@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **hudamabkhoot@gmail.com**
 
-- 📄 [my resuume](https://drive.google.com/file/d/1urw6EpeiRb0YMqpBsMQXzLdL1dchnjp6/view?usp=sharing)
+- 📄 [my resume](https://drive.google.com/file/d/1urw6EpeiRb0YMqpBsMQXzLdL1dchnjp6/view?usp=sharing)
 
 <br>
 <h3 align="left">Connect with me:</h3>
