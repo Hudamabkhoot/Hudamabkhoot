@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available [here](https://hudamabkhoot.netlify.app/)
 
+- 🚀 Currently working on a Smart Shopping List application in The Collab Lab's last cohort. Check it out [here](https://github.com/the-collab-lab/tcl-79-smart-shopping-list).
+
 - 📫 How to reach me **hudamabkhoot@gmail.com**
 
 - 📄 [my resume](https://drive.google.com/file/d/1urw6EpeiRb0YMqpBsMQXzLdL1dchnjp6/view?usp=sharing)
