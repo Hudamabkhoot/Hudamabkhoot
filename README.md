@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **hudamabkhoot@gmail.com**
 
-- 📄 [my resume](https://drive.google.com/file/d/1urw6EpeiRb0YMqpBsMQXzLdL1dchnjp6/view?usp=sharing)
+- 📄 [my resume](https://drive.google.com/file/d/1K1Y7HoyYk1tkKVNrx2M-r4vvo8vTx6Du/view?usp=sharing)
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -38,6 +38,9 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
+   <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
@@ -55,9 +58,6 @@
   </a>
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
