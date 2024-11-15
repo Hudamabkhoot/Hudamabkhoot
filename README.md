@@ -2,9 +2,9 @@
 
 <br>
 
-<p>I'm a front end developer from Saudi Arabia. Proficient in React, Javascript, TypeScript and GitHub for version control.</p> 
+<p>I’m a Front-End Developer with a passion for building intuitive, user-friendly applications using React, JavaScript, and TypeScript. With a background as a Product Owner, I’ve led teams, shaped product roadmaps, and ensured projects stay on track to meet user needs.</p> 
 
-<p>I'm currently on the look out for a role in front end development, ideally using React. I'd especially love to work in an environment where I can make an impact quickly. If you're hiring, feel free to contact me!</p>
+<p>I’m seeking a React-focused front-end role or a Project Management position where I can quickly contribute and make an impact. If you're looking for someone passionate about bringing ideas to life, let’s connect!</p>
 
 <br>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **hudamabkhoot@gmail.com**
 
-- 📄 [my resume](https://drive.google.com/file/d/1K1Y7HoyYk1tkKVNrx2M-r4vvo8vTx6Du/view?usp=sharing)
+- 📄 [my resume](https://drive.google.com/file/d/1-l8SQBccrOmw28vEhvGLeuWE-rsi_jp_/view?usp=sharing)
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -66,7 +66,4 @@
 
 <br>
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hudamabkhoot" alt="hudamabkhoot" />
-</div>
 
