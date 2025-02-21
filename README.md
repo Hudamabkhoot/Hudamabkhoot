@@ -2,21 +2,18 @@
 
 <br>
 
-<p>I’m a Front-End Developer with a passion for building intuitive, user-friendly applications using React, JavaScript, and TypeScript. With a background as a Product Owner, I’ve led teams, shaped product roadmaps, and ensured projects stay on track to meet user needs.</p> 
+<p>I’m a Frontend Developer with strong expertise in JavaScript, TypeScript, React.js and Next.js, specializing in building dynamic, responsive web applications with a focus on seamless UI/UX. With experience in Tailwind CSS, Firebase and MongoDB, I create user-friendly, high-performance products. I'm passionate about transforming ideas into functional, engaging products and continuously improving my skills!</p>
 
-<p>I’m seeking a React-focused front-end role or a Project Management position where I can quickly contribute and make an impact. If you're looking for someone passionate about bringing ideas to life, let’s connect!</p>
+<p>I’m seeking a React or Nextjs-focused Frontend role where I can quickly contribute and make an impact. If you're looking for someone passionate about bringing ideas to life, let’s connect!</p>
 
 <br>
 
-- 🌱 I’m currently learning **next.js**
 
-- 👨‍💻 All of my projects are available [here](https://hudamabkhoot.netlify.app/)
-
-- 🚀 Currently working on a Smart Shopping List application in The Collab Lab's last cohort. Check it out [here](https://github.com/the-collab-lab/tcl-79-smart-shopping-list).
+- 👨‍💻 All of my projects are available [here](https://hudamabkhoot.vercel.app)
 
 - 📫 How to reach me **hudamabkhoot@gmail.com**
 
-- 📄 [my resume](https://drive.google.com/file/d/1-l8SQBccrOmw28vEhvGLeuWE-rsi_jp_/view?usp=sharing)
+- 📄 [my resume](https://drive.google.com/file/d/1cRKb3a3kyBIq3V3qrpfN1CKeD4yAM7oP/view?usp=sharing)
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -32,6 +29,9 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
+ <a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+</a>
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -41,6 +41,9 @@
    <a href="#" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
+  <a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
